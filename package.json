@@ -1,0 +1,11 @@
+{
+  "name": "vue-inertia-directive",
+  "version": "1.0.1",
+  "description": "Adds a vue directive for creating links with ease",
+  "author": "Meegan1",
+  "license": "ISC",
+  "repository": "https://github.com/Meegan1/vue-inertia-directive",
+  "dependencies": {
+    "@inertiajs/inertia": "^0.6.3"
+  }
+}
